@@ -1,0 +1,146 @@
+{
+    "guID": "4006559be31d40fcb13b1c6d039695ed",
+    "userID": "219730442",
+    "loginID": "0",
+    "sbuName": "STAPLES.COM",
+    "applicationID": "1",
+    "customerNo": "0",
+    "staplesID": "0",
+    "preferenceCategoryCd": "900000",
+    "updatedUserID": "LAS5kMrqcFCB/Lqy0W2fAQ==",
+    "preferenceItemSelected": [
+        {
+            "prefItemCd": "3",
+            "prefItemDesc": "Order Confirmation",
+            "prefItemDispSeq": "1",
+            "prefItemDetails": [
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "DEFAULT",
+                    "optionDisplayType": "READONLY",
+                    "prefModeCd": "1"
+                },
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "DEFAULT",
+                    "optionDisplayType": "READONLY",
+                    "prefModeCd": "2"
+                },
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "DEFAULT",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "3"
+                }
+            ]
+        },
+        {
+            "prefItemCd": "1",
+            "prefItemDesc": "Shipped",
+            "prefItemDispSeq": "2",
+            "prefItemDetails": [  
+              
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "DEFAULT",
+                    "optionDisplayType": "READONLY",
+                    "prefModeCd": "3"
+                }
+            ]
+        },
+        {
+            "prefItemCd": "4",
+            "prefItemDesc": "Out For Delivery",
+            "prefItemDispSeq": "3",
+            "prefItemDetails": [
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "REQUIRED",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "1"
+                },
+                 {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "REQUIRED",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "2"
+                },
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "DEFAULT",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "3"
+                }
+            ]
+        },
+        {
+            "prefItemCd": "5",
+            "prefItemDesc": "Delivered",
+            "prefItemDispSeq": "4",
+            "prefItemDetails": [
+                {
+                    "deviceID": "170.37.149.10",
+                    "deviceType": "DESKTOP",
+                    "optionSelected": true,
+                    "optionSource": "DATABASE",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "1"
+                },
+                {
+                    "deviceID": "170.37.149.10",
+                    "deviceType": "DESKTOP",
+                    "optionSelected": true,
+                    "optionSource": "DATABASE",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "2"
+                },
+                {
+                    "deviceID": "",
+                    "deviceType": "",
+                    "optionSelected": true,
+                    "optionSource": "DEFAULT",
+                    "optionDisplayType": "EDITABLE",
+                    "prefModeCd": "3"
+                }
+            ]
+        }
+    ],
+    "preferenceMode": [
+        {
+            "prefModeCd": "1",
+            "prefModeDesc": "EMAIL",
+            "prefModeDispSeq": "1",
+            "prefModeDispDevice": "MOBILE,DESKTOP"
+        },
+        {
+            "prefModeCd": "2",
+            "prefModeDesc": "TEXT",
+            "prefModeDispSeq": "2",
+            "prefModeDispDevice": "MOBILE,DESKTOP"
+        },
+        {
+            "prefModeCd": "3",
+            "prefModeDesc": "PUSH",
+            "prefModeDispSeq": "3",
+            "prefModeDispDevice": "MOBILE"
+        }
+    ],
+    "mainResponse": "Success",
+    "subResponse": "",
+    "errorCode": "200",
+    "errorMesg": "No error found"
+}
